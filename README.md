@@ -1,4 +1,5 @@
-# ProjetoProfªLeticiaExerc02
+# Projeto Valores Decimais
+
 Crie um programa que leia três notas de um aluno e calcule a média aritmética dessas notas. Exiba o resultado da média para o usuário.
 
 Dicas:
